@@ -1,0 +1,4 @@
+opencv-python==4.13.0.92
+pandas==3.0.1
+ultralytics==8.4.26
+tqdm==4.67.3

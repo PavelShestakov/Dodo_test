@@ -1,0 +1,5 @@
+frame_idx,timestamp_sec,event_type,state,is_initial
+79,3.95,table_empty,EMPTY,True
+10380,519.0,approach,OCCUPIED,False
+10548,527.4,table_empty,EMPTY,False
+13331,666.55,approach,OCCUPIED,False
